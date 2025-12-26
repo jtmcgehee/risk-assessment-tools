@@ -1,4 +1,5 @@
 # EPA RSL Composite Table Document ID
 # Last updated: 2025-12-18
 # Table version: November 2024
-Composite Table ID: 405300
+Composite Table ID (TR=1E-06; THQ=0.1): 405300
+Composite Table ID (TR=1E-06; THQ=1.0): 405270
